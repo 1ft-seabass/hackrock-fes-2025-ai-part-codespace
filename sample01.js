@@ -20,7 +20,7 @@ async function main() {
     messages: [
       { role: "user", content: "こんにちは!ChatGPTさん!" }  // ユーザーから「こんにちは!ChatGPTさん!」の質問
     ],
-    model: "gpt-3.5-turbo", // モデルは gpt-3.5-turbo を今回使う。
+    model: "gpt-4o", // モデルは gpt-4o を今回使う。
   });
 
   // 結果表示
